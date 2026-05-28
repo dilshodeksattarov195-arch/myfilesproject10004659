@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggercave",
+        "uuid": 23458065,
+        "checksum": "k5ur8"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
